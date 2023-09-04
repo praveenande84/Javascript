@@ -1,0 +1,31 @@
+object
+==========
+collection of properties is called object
+------------------------------------------
+store same person multiple properties with a single name is called person Object.
+--------------
+create an object
+------------------
+let objectName={
+	  property:value,
+	  property:value,
+	  property:value
+};
+--------------------
+Example
+-------------------
+employee details normal method
+--------------------
+let empName="praveen";
+let empAge=26;
+let empSalary=40000;
+================================
+employee details Object method:
+-----------------------
+let employee = {
+    name:"Praveen",
+    age:27,
+    salary:40000
+};
+================================
+

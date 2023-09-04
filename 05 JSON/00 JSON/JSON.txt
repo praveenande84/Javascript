@@ -1,0 +1,9 @@
+JSON:
+=====
+Javascript Object Notation
+---------------------------
+JSON methods:
+------------
+JSON.stringfy()
+JSON.parse()
+================

@@ -1,0 +1,14 @@
+Comparison Operator:
+---------------------------------------
+1) equal to
+-------------
+a) Loose Equal to => ==
+Loose Equal to(==) compares two values for equality but doesn't compare types of values.
+
+b) Strict Equal to => ===
+Strict Equal to(===) compares two values for equality, It compares types of values also.
+========================
+
+
+
+

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<title>innerText</title>
+
+</head>
+
+<body>
+
+<center><h1>DOM manipulation</h1></center>
+<hr>
+
+<center><h1>innerText</h1></center>
+<hr>
+
+
+<div id="colors-div">
+ 
+</div>
+
+
+<script>
+//DOM events
+// innerText, innerHTML
+
+let colors = ['white', 'black', 'blue', 'green', 'orange']
+
+let colorsHtml = `<ul>\n`;
+for (let i=0; i<colors.length; i++){
+   colorsHtml += `<li>${colors[i]}</li>\n`;
+}
+
+colorsHtml += `</ul>`;
+
+// console.log(colorsHtml);
+// document.querySelector('#colors-div').innerText = colorsHtml;  // wrong
+document.querySelector('#colors-div').innerHTML = colorsHtml;
+
+
+
+
+
+</script>
+
+<hr>
+</body>
+
+</html>

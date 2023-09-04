@@ -1,0 +1,11 @@
+JS Promises:
+==============
+1) Promise is a way to handle Asynchronous operation.
+2) A promise is an object that represents a result of operation that will be returned at some point in the future.
+========================
+ A Promise will be in any one of the three states
+--------------------------------------
+1) Pending : Neither fulfilled nor rejected.
+2) Fulfilled : Operation completed successfully.
+3) Rejected : Operation failed.
+=====================

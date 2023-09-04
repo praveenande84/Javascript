@@ -1,0 +1,1 @@
+object property value as => string, integer, float, Function, Array, Object

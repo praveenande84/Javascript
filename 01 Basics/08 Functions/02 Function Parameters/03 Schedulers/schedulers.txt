@@ -1,0 +1,10 @@
+Schedulers
+===========
+schedulers are used to schedule the execution of a callback function.
+-----------------------------------------------------
+There are different scheduler methods:
+1) setInterval()
+2) clearInterval()
+3) setTimeOut()
+4) clearTimeOut()
+=======================================================

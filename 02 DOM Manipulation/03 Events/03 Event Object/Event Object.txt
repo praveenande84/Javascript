@@ -1,0 +1,21 @@
+Event Object:
+==============
+Whenever an event happens, the browser creates an event object.
+It consists of information about the event that has happened.
+It consists of many properties and methods.
+---------------------
+type
+target
+key
+timeStamp
+stopPropagation
+... and many more.
+------------------------
+For any event, event-specific properties and methods will be present.
+--------
+Example:
+The keydown event has key property, whereas the onclick event doesn't have it.
+===============
+
+
+

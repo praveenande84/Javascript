@@ -1,0 +1,13 @@
+
+selectors comparison ::
+---------------------------------
+html, css,  js,  jQuery 
+---------------------------------------
+tag => <nav> => nav{} => document.querySelector("nav");   => $("nav");
+id => <nav id="test"> => #nav{} => document.querySelector("#test");  => $("#nav");
+class => <nav class="test"> => .nav{} => document.querySelector(".test"); => $(".nav"); 
+============================================================
+
+
+
+

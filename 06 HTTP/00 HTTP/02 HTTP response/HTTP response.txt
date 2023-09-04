@@ -1,0 +1,36 @@
+HTTP response
+==============
+HTTP responses are messages sent by the server as an answer to the clients request.
+-------------
+HTTP Response includes
+
+Status Line
+Headers
+Body
+-----------------
+Status Line:
+----------------
+HTTP version
+status code
+status text
+--------------------
+status code: status codes indicate wheather an HTTP request has been successfully completed or not.
+Example: 
+200(Success) => Indicates that the request has succeeded
+201(created) => the request has succeeded and a new resource has been created as a result.
+---------------
+status text:
+200 => OK
+204 => No Response
+301 => Moved Permanently
+401 => Unauthorized
+403 => Forbidden
+404 => Not Found
+--------------------------
+Body:
+------
+Respoonse Body contains the resource data that was requested by the client.
+==================
+
+
+

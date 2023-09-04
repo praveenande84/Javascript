@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<title>innerText</title>
+
+</head>
+
+<body>
+
+<center><h1>DOM manipulation</h1></center>
+<hr>
+
+<center><h1>innerText</h1></center>
+<hr>
+
+
+
+<!--innerText-->
+<div>
+  <h1 id="message-div"> 
+      <span style="color:red">Good</span>
+      <span style="color:limegreen">Morning</span> 
+ </h1>
+</div>
+
+
+<script>
+//DOM events
+
+
+// innerText, innerHTML
+
+let htmlSnippet = '<h1><span style="color:blue">Good</span><span style="color:pink">Morning</span></h1>'	
+				    
+let divElement = document.querySelector('#message-div');
+// divElement.innerText = htmlSnippet; // this is wrong
+divElement.innerHTML = htmlSnippet;
+
+
+
+</script>
+
+<hr>
+</body>
+
+</html>

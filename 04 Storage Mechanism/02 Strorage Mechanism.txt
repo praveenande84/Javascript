@@ -1,0 +1,15 @@
+Storage Mechanism:
+========================
+client-side Data storage:
+------------------------
+client-side Data storage is storing the data on the client (user's machine).
+1) Local Storage
+2) Session Storage
+3) Cookies
+4) IndexedDB and many more.
+-------------------------
+server-side Data storage:
+-------------------------
+Server-side Data Storage is storing the data on the server.
+=========================
+

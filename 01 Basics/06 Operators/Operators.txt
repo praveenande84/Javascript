@@ -1,0 +1,13 @@
+Operators:
+==========
+1) Assignment => =
+2) Arithmetic => +  -   *   /
+3) String Concatenation => + (when, string+number or string+string)
+4) shorthand Maths => +=  -=   *=   /=
+5) unary  => ++   --
+6) conditional => ==  ===   !=   !==   <   >   <=   >=
+7) logical => &&   ||  !
+8) Spread  =>  ...
+9) Rest  =>  ...
+10) Ternary  =>  condition ? true Statement : false Statement ;
+=========================

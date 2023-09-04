@@ -1,0 +1,23 @@
+fetch
+========
+the fetch() method is used to fetch resources across the internet.
+-------------
+syntax:
+-----------
+fetch(url, options)
+-----------
+url => url of the resource
+options => Request Configuration
+---------------
+Request Configuration:
+we can configure the fetch request with many options like,
+
+=> Request Method
+=> Headers 
+=> Body
+=> Credentials
+=> Cache
+=> ...etc
+------------------
+we can configure a request by passing an options object with required properties and their values.
+--------------

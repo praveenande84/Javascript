@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<title>innerText</title>
+
+</head>
+
+<body>
+
+<center><h1>DOM manipulation</h1></center>
+<hr>
+
+<center><h1>innerText</h1></center>
+<hr>
+
+
+
+<!--innerText-->
+<div>
+ 
+</div>
+
+
+<script>
+//DOM events
+// innerText, innerHTML
+
+// create Tags using javascript
+let spanTag1 = document.createElement('span');
+spanTag1.innerText = "Good";
+spanTag1.style.color='red';
+// console.log(spanTag1)
+
+let spanTag2 = document.createElement('span');
+spanTag2.innerText = "Morning";
+spanTag2.style.color='green';
+// console.log(spanTag1)
+
+let h1Tag = document.createElement('h1');
+h1Tag.appendChild(spanTag1)
+h1Tag.appendChild(spanTag2)
+// console.log(h1Tag)
+
+let divTag = document.createElement('div');
+divTag.append(h1Tag);
+// console.log(divTag)
+
+document.body.appendChild(divTag);
+
+
+
+
+
+
+
+
+</script>
+
+<hr>
+</body>
+
+</html>

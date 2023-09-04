@@ -1,0 +1,15 @@
+Looping Control Statements:
+--------------------------------------------------------
+Loops allow us to execute a block of code several times.
+=========================================================
+for loop:
+---------
+1) for-of 
+2) for-in 
+3) for loop
+----------------
+while loop:
+---------------
+1) while loop
+2) do-while loop
+===========================================================

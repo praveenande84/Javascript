@@ -1,0 +1,10 @@
+DOM manipulation
+==============
+selectors
+----------
+New format
+-----------
+tag => <nav> => document.querySelector("nav");  
+id => <nav id="test"> => document.querySelector("#test"); 
+class => <nav class="test"> => document.querySelector(".test"); 
+==================================

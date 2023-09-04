@@ -1,0 +1,13 @@
+Events:
+========
+Events are the actions by which the user or browser interact with HTML elements.
+------------
+There are different types of events.
+1) keyboard Events
+2) Mouse Events
+3) Touch Events
+4) ... etc.
+====================
+
+
+

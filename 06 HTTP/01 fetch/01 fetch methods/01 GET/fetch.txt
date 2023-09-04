@@ -1,0 +1,9 @@
+fetch()
+=========
+fetch() method is used to fetch resources across the internet.
+------------
+fetch(url, options)
+----
+url => URL of the Resource
+Options => Request configuration
+======================

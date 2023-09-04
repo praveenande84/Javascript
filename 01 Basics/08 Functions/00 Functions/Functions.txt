@@ -1,0 +1,8 @@
+Types of Functions:
+--------------------------
+01) Function Declaration
+02) Function Expression
+03) Arrow Function
+04) Factory Function
+05) Constructor Function
+===========================

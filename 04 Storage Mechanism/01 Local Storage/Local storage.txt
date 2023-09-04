@@ -1,0 +1,14 @@
+Local Storage:
+===============
+It allows web applications to store data locally within the user's browser.
+It is a Storage Object. Data can be stored in the form of key-value pairs.
+Please note that both key and value must be string, if their type is other than string, they get converted to strings automatically.
+------------
+To access and work with Local Stprage we have below methods:
+1) setItem()
+2) getItem()
+3) removeItem()
+4) clear()
+=========================
+
+

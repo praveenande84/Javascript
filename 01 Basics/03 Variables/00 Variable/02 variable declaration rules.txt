@@ -1,0 +1,14 @@
+Variable Declaration Rules:
+-------------------------
+A valid Identifier should follow the below rules:
+1) It can contain alphanumeric characters, _ and $.
+2) It cannot start with a number.
+----------------------
+Examples
+-------------
+varaibleName_$123
+$varaibleName
+_varaibleName
+
+123varaibleName => (variable must not start with number)
+================================================

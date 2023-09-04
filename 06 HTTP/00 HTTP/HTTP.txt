@@ -1,0 +1,12 @@
+HTTP
+======
+HTTP Requests
+---------------
+HTTP requests are messages sent by the client to initiate an action on the server.
+---------
+HTTP request includes => 
+--------------
+1) start Line
+2) Headers
+3) Body
+-----------------

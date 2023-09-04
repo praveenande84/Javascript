@@ -1,0 +1,11 @@
+promises
+==========
+dependent promise
+------------------
+doCourse()
+     => doProject()
+	        => doTechnicalRound()
+			    => doManagerRound()
+				        => doHRRound()
+						    => Get / Not
+	=====================================						

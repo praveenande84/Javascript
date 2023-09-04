@@ -1,0 +1,9 @@
+javascript output :
+=======================
+javascript output display is in 4 ways :
+------------------------------------------
+1)document.write()
+2)innerHTML
+3)window.alert()
+4)console
+=====================

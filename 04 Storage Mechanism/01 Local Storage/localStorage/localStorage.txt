@@ -1,0 +1,4 @@
+localStorage:
+==============
+right click => moretools => developer tools => Applications => local storage => our website url
+------------------------

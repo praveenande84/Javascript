@@ -1,0 +1,50 @@
+URL
+========
+URL => Uniform Resource Locator (URL)
+URL is a text string that specifies where a resource can be found on the internet.
+we can access web resources using the URL.
+------------------
+protocol://domainName/path?query-parameter
+--------------------
+Example:
+---------
+http://www.flipkart.com/watches?type=digital&rating=4
+
+http => protocol
+www.flipkart.com => Domain Name
+/watches => path
+type=digital&rating=4 => Query Parameter
+---------------------------------------
+protocol:
+A protocol is a standard set of rules that allow electronic devices to communicate with each other.
+ => There are different types of protocols.
+ => Hypertext Transfer Protocol (HTTP)
+ => Hypertext Transfer Protocol securre(HTTPS)
+ => web Sockets
+---------------------------
+HTTP => The HTTP is a protocol used to transfer resources over the web.
+Example: Internet forums, Educational sites, ...etc
+
+HTTP Request => Message sent by the client.
+HTTP Response => Message sent by the server.
+----------------------------------
+HTTPS => In HTTPS, information is transferred in an encrypted format and provides secure communication.
+
+Example: Banking websites, payent gataway, login pages, emails and corporate sector websites,...etc
+-----------------------------------
+Domain Name => It indicates which web server is being requested.
+-------
+path => The path is to identify the resources on the server.
+Example: 
+/watches in  http://www.flipkart.com/watches
+/electronics/laptops/gaming in http://www.flipkart.com/electronics/laptops/gaming
+----------------------
+Query parameter:
+Query parameters add some criteria to the request for the resource.
+Multiple query parameters can be added by using an &(ampersand) symbol.
+Example: http://www.flipkart.com/watches?type=digital&rating=4
+-------------------------
+
+
+
+

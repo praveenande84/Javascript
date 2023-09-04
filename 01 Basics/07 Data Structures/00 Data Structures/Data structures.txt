@@ -1,0 +1,13 @@
+Data Strucures:
+-------------------------------
+Data Structure allow us to store and organize data efficiently.
+This makes us access and performs operations on the data smoothly.
+-----------------
+In javascript, we have built-in Data structures like,
+------------
+1) Arrays
+2) Objects
+3) Maps
+4) Sets
+===================
+

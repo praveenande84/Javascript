@@ -1,0 +1,11 @@
+difference between innerText and innerHTML:
+============================================
+innerText => plain Text 
+innerHTML => <h1>content</h1> => html element
+=============================
+
+
+
+
+
+

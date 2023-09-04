@@ -1,0 +1,15 @@
+Web Resourses:
+==============
+A web Resource is any data that can be obtained via internet.
+------------
+A resource can be
+=> HTML document
+=> CSS document
+=> JSON Data or plain text
+=> image, video,...etc
+--------------------------
+
+
+
+
+

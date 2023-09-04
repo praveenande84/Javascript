@@ -1,0 +1,10 @@
+Conditional statements:
+========================
+The conditional statement allows you to execute a block of code only when a specific condition true.
+------------------------
+if..else statement
+============
+if
+else if
+else
+===========

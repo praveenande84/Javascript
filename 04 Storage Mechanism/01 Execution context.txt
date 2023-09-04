@@ -1,0 +1,7 @@
+Execution Context:
+==================
+The environment in which javascript code runs is called Execution context.
+Execution context contains all the variables, Objects, and functions.
+Execution Context is destroyed and recreated whenever we reload an Application.
+====================
+

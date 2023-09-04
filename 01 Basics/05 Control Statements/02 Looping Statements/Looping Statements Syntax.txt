@@ -1,0 +1,38 @@
+looping control statements
+=======================
+1)for
+2)while
+3)do-while
+=======================
+
+1)for
+------
+for(initialization; condition; increment/decrement){
+	//statements
+}
+
+========================
+
+2)while
+--------
+initialization;
+while(condition){
+	//statements
+	//increment/decrement
+}
+
+============================
+
+3)do-while
+-----------
+initialization;
+do{
+	//  statements
+    //  increment / decrement
+}
+while(condition);
+
+===============================
+
+
+

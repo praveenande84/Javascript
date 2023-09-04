@@ -1,0 +1,13 @@
+HTML Forms:
+============
+The HTML Forms can be used to collect data from the user.
+----------
+Forms are differsnt kinds:
+--------------
+Login / Sign in Forms
+Registration Form
+Contact Us Form
+======================
+HTML Form Eleemnt:
+The HTML form element can be used to create HTML forms. It is a container that can contain different types of Input elements like Fields, checkbo,...etc.
+=========================

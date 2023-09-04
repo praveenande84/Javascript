@@ -1,0 +1,9 @@
+scoping:
+=========
+The scope is the region of the code where a certain variable can be accessed.
+-------------------
+In javascript there are two types of scope:
+-------------
+Block scope
+Global scope
+=========================

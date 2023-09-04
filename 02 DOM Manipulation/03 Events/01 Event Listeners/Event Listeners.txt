@@ -1,0 +1,8 @@
+Event Listeners
+================
+javascript offers 3 ways to add an Event Listener to a DOM element.
+---------------------------
+1) Inline event Listener
+2) onevent listener
+3) addEventListener
+========================

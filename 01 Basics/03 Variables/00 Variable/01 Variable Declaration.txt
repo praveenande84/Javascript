@@ -1,0 +1,13 @@
+Variables:
+=============
+variables are like containers for storing values.
+--------------
+we can create variables using Variable Declaration keywords .
+In Javascript, a variable can be declared in 3 ways.
+-----------------
+1) let 
+2) const
+3) var
+-----------------
+we can put data into a variable using an assignment operator (=).
+=================

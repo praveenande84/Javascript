@@ -1,0 +1,11 @@
+DOM manipulation
+==============
+selectors
+----------
+old format
+-----------
+// we cannot select the child element of the parent tag through old format.
+tag => <nav> => document.getElementByTagName("nav"); 
+id => <nav id="test"> => document.getElementById("test");
+class => <nav class="test"> => document.getElementByClass("test");
+================================

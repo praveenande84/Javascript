@@ -1,0 +1,6 @@
+User actions :
+================
+clicking the button
+pressing the keyboard keys
+scrolling the page
+======================

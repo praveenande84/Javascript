@@ -1,0 +1,26 @@
+
+table{
+    width: 90%;
+    margin: 50px auto;
+    box-shadow: 0 0 5px blueviolet;
+    text-align: center;
+}
+thead th{
+    background: linear-gradient(45deg,black,darkslategray);
+    color: white;
+    padding: 15px;
+}
+tbody td{
+    padding: 15px;
+}
+tr:nth-child(even){
+    background-color:#bd8bec;
+    color: white;
+}
+tr:nth-child(odd){
+    background-color: #825bd3;
+    color: white;
+}
+tr:hover{
+    background-color: rebeccapurple;
+}

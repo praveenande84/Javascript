@@ -1,0 +1,15 @@
+HTTP response object Properties and Methods:
+=============================================
+Response Object provides multiple properties to give more information about the HTTP Response.
+--------------
+status(number) => HTTP status code
+statusText(string) => status text as reported by the server => ex:Unauthorized
+headers
+url
+text() => getting text from response
+json() => Parses the response as JSON
+==============================
+
+
+
+

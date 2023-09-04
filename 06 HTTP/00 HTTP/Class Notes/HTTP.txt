@@ -1,0 +1,33 @@
+HTTP => Hypertext Trasfer Protocol
+=========
+URL => Uniform Resource Locator
+
+URL is a text string that specifies where a resource can be found on the Internet.
+
+protocol://domainName/path?query-parameters
+======================
+Example:
+http://www.flipkart.com/watches?type=digital&rating=4
+-------------------
+http => protocol
+www.flipkart.com => Domain Name
+watches => path
+type=digital&rating=4 => Query Parameters
+========================
+protocol:
+-----------
+Web Communication Protocols:
+---------------------------
+HTTP => Hypertext Transfer Protocol
+HTTPS => Hypertext Transfer secure
+---------------------------
+HTTP:
+-----
+The Hypertext Trasfer Protocol(HTTP)is used to trasfer resource over the web.
+------------------------
+HTTPS:
+-------
+In Hypertext Protocol Protocol Secure (HTTPS), information is trasferred in an encrypted format.
+
+It provides secure communication.
+=================================

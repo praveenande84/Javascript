@@ -1,0 +1,12 @@
+Logical Operators
+================
+and => &&
+or => ||
+not => !
+===============
+Not equal => !=
+strict not equal => !==
+--------------------------
+Not equal compares two values but doesn't compare types of values.
+strict not equal compares two values including types of values.
+=========================
